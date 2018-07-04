@@ -1,6 +1,6 @@
 Kyle Barton
 ===========
-4925 Avila ave, Carlsbad CA 92008 | (415) 273-9857 | kyle.humberto@gmail.com | [Github](https://github.com/sideshowbandana) | [Medium](https://medium.com/@kyle_26541)
+4925 Avila ave, Carlsbad CA 92008 | (415) 273-9857 | kyle.humberto@gmail.com | [Github](https://github.com/sideshowbandana) | [Medium](https://medium.com/@kyle_26541) | [HackerRank](https://www.hackerrank.com/kyle_humberto)
 
 ----
 
