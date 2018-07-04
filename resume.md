@@ -1,6 +1,6 @@
 Kyle Barton
 ===========
-kyle.humberto@gmail.com | [Github](https://github.com/sideshowbandana) | [Medium](https://medium.com/@kyle_26541) | [HackerRank](https://www.hackerrank.com/kyle_humberto) | [Atomic Machines](https://www.facebook.com/TheAtomicMachines/)
+kyle.humberto@gmail.com | [Github](https://github.com/sideshowbandana) | [Medium](https://medium.com/@kyle_26541) | [HackerRank](https://www.hackerrank.com/kyle_humberto) | [Atomic Machines](https://www.facebook.com/TheAtomicMachines/) | <http://surftrip.info/>
 
 ----
 
