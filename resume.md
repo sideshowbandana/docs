@@ -37,7 +37,7 @@ Server side consumer team lead. Responsible for a team of 4-5 people focused pri
 - Assist companies in becoming HIPPA compliant
 - Manage and implement Docker images
 - Convert projects from CircleCI v1 to v2
-- Implemented a system for configuring and deploying feature branches into kubernetes environment
+- Implemented a system for configuring and deploying [feature branches](https://itnext.io/feature-deployments-in-kubernetes-c74bdcff0d8e) into kubernetes environment
 
 ### Lead Engineer | MasterClass | 2/2015-7/2016 ###
 
@@ -63,6 +63,7 @@ Server side consumer team lead. Responsible for a team of 4-5 people focused pri
 - Added archival functionality for user related data
 - Designed and implemented a features framework to allow customization of users feature sets based on device capability and company policy (free/premium/preload)
 - Designed and implemented a “gratification” framework for tracking success metrics for various features
+- Designed and implemented [signal flare](https://venturebeat.com/2012/10/09/lookout-redesign/) functionality in a hackathon project.
 - Implemented original device ping functionality
 - Designed and implemented premium upsell and billing functionality
 - Designed and implemented database sharding functionality which allowed us to scale to 50 million users
