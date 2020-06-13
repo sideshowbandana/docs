@@ -10,14 +10,14 @@ kyle.humberto@gmail.com | [Github](https://github.com/sideshowbandana) | [Medium
 
 ## Software Languages / Frameworks / Services  / Tools / Buzzwords ##
 
-|             |             |           |             |              |         |             |
-|:------------|:------------|:----------|:------------|:-------------|:--------|:------------|
-| AWS         | postgres    | dmarcian  | codeclimate | circleci     | mysql   | Terraform   |
-| tableau     | kissmetrics | emacs     | SqlServer   | bash         | Kops    | redis       |
-| python      | Stripe      | haml      | markdown    | memcached    | zendesk | pingdom     |
-| GoogleCloud | Paypal      | hackerone | pivotal     | resque       | Trello  | pagerduty   |
-| Docker      | Jenkins     | git       | gerrit      | github       | rails   | ruby        |
-| Kubernetes  | Helm        | Braintree | graphite    | coffeescript | looker  | ActiveAdmin |
+
+|               |               |             |               |                |            |
+| :------------ | :------------ | :---------- | :------------ | :------------- | :--------  |
+| git           | redis         | python      | circleci      | Docker         | Atlantis   |
+| gerrit        | postgres      | memcached   | mysql         | Terraform      | Airflow    |
+| GitHub        | ActiveAdmin   | hackerone   | pagerduty     | Jenkins        | Cloudflare |
+| rails         | resque        | dmarcian    | Sentry        | Helm           | Emacs      |
+| ruby          | AWS           | codeclimate | Kubernetes    | GoogleCloud    | NewRelic   |
 
 ## Communication ##
 
@@ -29,9 +29,21 @@ Server side consumer team lead. Responsible for a team of 4-5 people focused pri
 
 ## Experience ##
 
+### Server lead | FITBOD | 9/2018-PRESENT ###
+
+- Responsible for building the team through recruiting, interviewing and training
+- Responsible for migrating legacy ParseServer (NodeJS/MongoDB) to new service oriented architecture
+- Assist founder decisions on people, process and technology based on my previous experience in small companies
+- Implement API for user workout data storage following the jsonapi spec
+- Implement deployment pipeline to allow for continuous deployment of dev, staging, production and features using circleci.
+- Implement authentication service and architecture for handling authenticating users across micro services
+- Manage GCP and AWS infrastructure via terraform and atlantis
+- Implement API for queuing long running jobs
+- Implement migration job to transfer user data from MongoDB to Postgres
+
 ### Devops | OpsZero | 9/2017-Present ###
 
-- Assist companies in reducing monthly spend on AWS and GoogleCloud by placing existing software onto kubernetes 
+- Assist companies in reducing monthly spend on AWS and GoogleCloud by placing existing software onto kubernetes
 - Convert legacy Java app from using SQL Server to Postgres to increase performance and decrease spend.
 - Deploy customized Jenkins instance for building and deploying multiple projects
 - Assist companies in becoming HIPPA compliant
