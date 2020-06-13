@@ -4,7 +4,7 @@ kyle.humberto@gmail.com | [Github](https://github.com/sideshowbandana) | [Linked
 
 ----
 
-> Obtain a software development position where I can utilize my experience of scaling cloud-based systems.
+> Obtain a software engineering position where I can utilize my versatility and experience of scaling cloud-based systems.
 
 ----
 
