@@ -41,7 +41,7 @@ Server side consumer team lead. Responsible for a team of 4-5 people focused pri
 - Implement API for queuing long running jobs
 - Implement migration job to transfer user data from MongoDB to Postgres
 
-### Devops | OpsZero | 9/2017-Present ###
+### Devops | OpsZero | 9/2017-9/2018 ###
 
 - Assist companies in reducing monthly spend on AWS and GoogleCloud by placing existing software onto kubernetes
 - Convert legacy Java app from using SQL Server to Postgres to increase performance and decrease spend.
