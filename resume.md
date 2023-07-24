@@ -14,8 +14,8 @@ kyle.humberto@gmail.com | [Github](https://github.com/sideshowbandana) | [Linked
 |               |               |             |               |                |            |
 | :------------ | :------------ | :---------- | :------------ | :------------- | :--------  |
 | git           | redis         | python      | circleci      | Docker         | Atlantis   |
-| gerrit        | postgres      | memcached   | mysql         | Terraform      | Airflow    |
-| GitHub        | ActiveAdmin   | hackerone   | pagerduty     | Jenkins        | Cloudflare |
+| BigQuery      | postgres      | memcached   | mysql         | Terraform      | Airflow    |
+| GitHub        | ActiveAdmin   | hackerone   | pagerduty     | datadog        | Cloudflare |
 | rails         | resque        | dmarcian    | Sentry        | Helm           | Emacs      |
 | ruby          | AWS           | codeclimate | Kubernetes    | GoogleCloud    | NewRelic   |
 
