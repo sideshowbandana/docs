@@ -29,6 +29,14 @@ Server side consumer team lead. Responsible for a team of 4-5 people focused pri
 
 ## Experience ##
 
+### Principal Backend Engineer | Albert | 6/2024 - PRESENT
+- Made library updates to configure cors headers across all services
+- Implemented AWS REST API gateway that routes traffic through NLB to microservice ALBs inside the VPC using terraform. Including changes to a client binary to allow developers to deploy to their own feature environments
+- Updated client tool to toggle postgres query logging, generate new services from scratch,
+- Moved alert notification functionality from monolithic app intio a microservice
+- Integrated codecov into github actions for each project
+- Refactored django model bulk_update code to update based on partitions
+
 ### Server lead | FITBOD | 9/2018-PRESENT ###
 
 - Responsible for building the team through recruiting, interviewing and training
