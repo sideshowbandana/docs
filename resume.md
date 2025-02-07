@@ -37,7 +37,7 @@ Server side consumer team lead. Responsible for a team of 4-5 people focused pri
 - Integrated codecov into github actions for each project
 - Refactored django model bulk_update code to update based on partitions
 
-### Server lead | FITBOD | 9/2018-PRESENT ###
+### Server lead | FITBOD | 9/2018-06/2024
 
 - Responsible for building the team through recruiting, interviewing and training
 - Responsible for migrating legacy ParseServer (NodeJS/MongoDB) to new service oriented architecture
